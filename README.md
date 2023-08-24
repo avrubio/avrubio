@@ -63,6 +63,13 @@
 
 <br/>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avrubio&show_icons=true&theme=synthwave&title_color=cd1aff&text_color=1affb2&locale=en&layout=compact" alt="avrubio" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avrubio&show_icons=true&locale=en" alt="avrubio" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avrubio&theme=dark" alt="avrubio" /></p>
+
 ---
 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
