@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/Pink Ui Retro Twitch Banner.png">
+<img src="/avrubio.dev (2).png">
 
 🌱 I’m currently learning React, Typescript, Angular
 
