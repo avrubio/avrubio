@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="/Pink Ui Retro Twitch Banner.png">Pink Ui Retro Twitch Banner.png
-
-### <div align="center">I'm Ariadna, a junior developer 👨‍💻 adding projects to my github one at a time 😎🥳</div>
+<img src="/Pink Ui Retro Twitch Banner.png">
 
 🌱 I’m currently learning React, Typescript, Angular
 
