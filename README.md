@@ -72,7 +72,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avrubio&show_icons=true&locale=en" alt="avrubio" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avrubio&theme=dark" alt="avrubio" /></p>
 
 ---
 
